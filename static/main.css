@@ -1,0 +1,67 @@
+.chat-users{
+    height: 700px;
+    border: 2px solid #F8B9FA;
+    border-radius: 10px;
+    background-color:#F8F9FA;
+    padding-top:10px;
+
+}
+
+.channels{
+    height:300px;
+}
+
+.friends {
+    height:300px;
+}
+
+.chat {
+    height: 700px;
+    border-radius: 10px;
+    border: 2px solid #848484;
+    margin-left:4px;
+}
+
+.message {
+    height:620px;
+}
+
+.sender{
+    padding-top:10px;
+}
+
+.channel-list {
+    border-top: 2px solid green;
+    padding: 10px 0px;
+}
+
+.friends p {
+    border-bottom: 2px solid blue;
+    padding: 10px 0px;
+}
+
+.chat-message{
+    border: 2px solid #dedede;
+    background-color: #f1f1f1;
+    padding: 20px;
+    margin: 10px; 0px;
+}
+
+.chat-message span{
+    float: right;
+    font-size: 10px !important;
+}
+
+.darker {
+    border-color: #ccc;
+    background-color: #ddd;
+}
+
+.channelall {
+padding: 10px 0px;
+    border-bottom: 2px solid #432012;
+}
+
+#username {
+
+}
